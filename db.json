@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Poojitha",
+      "email": "poojithareddygurram@gmail.com",
+      "phone": "07993869425",
+      "password": "qwe",
+      "confirmPassword": "qwe",
+      "address": {
+        "street": "lb nagar",
+        "city": "Hyderabad",
+        "state": "telangana",
+        "zipCode": "500074",
+        "landmark": ""
+      },
+      "id": "1742190575948",
+      "createdAt": "2025-03-17T05:49:35.948Z"
+    },
+    {
+      "name": "leena",
+      "email": "poojithareddygdasfurram@gmail.com",
+      "phone": "07993869425",
+      "password": "qwe",
+      "confirmPassword": "qwe",
+      "address": {
+        "street": "lb nagar",
+        "city": "Hyderabad",
+        "state": "telangana",
+        "zipCode": "500074",
+        "landmark": ""
+      },
+      "id": "1742190966620",
+      "createdAt": "2025-03-17T05:56:06.620Z"
+    }
+  ]
+}
